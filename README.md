@@ -9,7 +9,7 @@ Este proyecto es un ecosistema blindado de gestión personal y empresarial. Lo q
 
 ## 🌀 Capacidades Operativas
 1.  **Bitácora 24/7:** Control exhaustivo semanal de misiones, estados y niveles de importancia.
-2.  **Hexagrama Dual:** Interfaz zodiacal con modo operativo (12 signos) y modo oculto estratégico (13 signos), con lógica de equilibrio corregida (Libra central).
+
 3.  **Telemetría de Rendimiento:** Gráficos dinámicos de uso de tiempo y productividad por áreas.
 4.  **Gestión de Objetivos:** Desglose táctico de tareas vinculado a solicitudes reales.
 
